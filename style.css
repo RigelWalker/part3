@@ -18,9 +18,9 @@ div {
 
 #container {
   font-family: UnifrakturMaguntia;
-  width: 350px;
-  height: 70%;
-  max-height: 500px;
+  width: 400px;
+  height: 80;
+  max-height: 600px;
   top: 50%;
   left: 50%;
   -webkit-perspective: 5000px;
